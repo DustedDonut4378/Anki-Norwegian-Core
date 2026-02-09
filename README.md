@@ -6,6 +6,7 @@ A comprehensive Anki deck for learning the 2,000 most essential Norwegian words.
 - **2,000 Core Words:** Selected based on frequency.
 - **Example Sentences:** Sentences and translations generated using **Gemini 3 Flash**.
 - **Audio:** Text-to-Speech (TTS) audio for every sentence, generated via **Google Chirp 3: HD**.
+- **Bidirectional Learning:** Every word includes both Recognition (Norwegian ➔ English) and Production (English ➔ Norwegian) cards to ensure you can both understand and speak the language.
 - **Community Driven:** Open for improvements! If you find a typo or have a suggestion, please open an Issue.
 
 ## 📥 How to Install
